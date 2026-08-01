@@ -29,6 +29,10 @@ bin/
 ### VS Code ###
 .vscode/
 
+### Misc ###
+run-client.log
+run-client.err.log
+
 ### Mac OS ###
 .DS_Store
 

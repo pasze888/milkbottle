@@ -1,0 +1,9 @@
+{
+  "item.milkbottle.milk_bottle": "奶瓶",
+  "item.milkbottle.splash_milk_bottle": "喷溅奶瓶",
+  "milkbottle.configuration.title": "奶瓶配置",
+  "milkbottle.configuration.section.milkbottle.common.toml": "奶瓶",
+  "milkbottle.configuration.section.milkbottle.common.toml.title": "通用",
+  "milkbottle.configuration.maxEffectsCleared": "解除状态效果数量",
+  "milkbottle.configuration.maxEffectsCleared.tooltip": "奶瓶最多解除的状态效果数量。0 表示解除全部状态效果。"
+}

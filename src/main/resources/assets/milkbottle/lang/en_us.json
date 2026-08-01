@@ -1,0 +1,11 @@
+{
+  "itemGroup.milkbottle": "Milk Bottle Tab",
+  "item.milkbottle.milk_bottle": "Milk Bottle",
+  "item.milkbottle.splash_milk_bottle": "Splash Milk Bottle",
+
+  "milkbottle.configuration.title": "Milk Bottle Config",
+  "milkbottle.configuration.section.milkbottle.common.toml": "Milk Bottle",
+  "milkbottle.configuration.section.milkbottle.common.toml.title": "Common",
+  "milkbottle.configuration.maxEffectsCleared": "Max Effects Cleared",
+  "milkbottle.configuration.maxEffectsCleared.tooltip": "The maximum number of active effects a milk bottle clears. 0 clears all active effects."
+}
