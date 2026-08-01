@@ -1,14 +1,10 @@
 # 奶瓶 (Milk Bottle)
 
-一个基于 **NeoForge 1.21.1** 的模组，添加了可饮用和可投掷的奶瓶，用于解除状态效果。
-
-A NeoForge 1.21.1 mod that adds drinkable and throwable milk bottles for clearing status effects.
-
-[English](#english) | [中文](#中文)
-
 ---
 
 ## 中文
+
+一个基于 **NeoForge 1.21.1** 的模组，添加了可饮用和可投掷的奶瓶，用于解除状态效果。
 
 ### 简介
 
@@ -49,6 +45,8 @@ gradlew build
 ---
 
 ## English
+
+A NeoForge 1.21.1 mod that adds drinkable and throwable milk bottles for clearing status effects.
 
 ### Introduction
 
