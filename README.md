@@ -92,5 +92,5 @@ This project is licensed under the **MIT License**.
 
 ## Acknowledgements
 
-- Based on the [NeoForged MDK](https://github.com/NeoForged/MDK) template.
+- Based on the [MDK-1.21.1-ModDevGradle](https://github.com/NeoForgeMDKs/MDK-1.21.1-ModDevGradle） template.
 - Community docs: https://docs.neoforged.net/
